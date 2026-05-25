@@ -22,6 +22,10 @@ The dashboard helps answer important business questions such as:
 
 # Dashboard Features
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
+
 ## KPI Cards
 The dashboard includes dynamic KPI cards for:
 
